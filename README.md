@@ -230,9 +230,10 @@ For issues and questions:
 4. Test with the provided management commands
 
 ---
+#to Run the project
+< your path >/Crypto-compyle-test-crypto-egov> python manage.py runserver
 
 **⚡ Built with Django, Bootstrap 5, and modern cryptography practices**
 
-#to Run the project
-< your path >/Crypto-compyle-test-crypto-egov> python manage.py runserver
+
     
