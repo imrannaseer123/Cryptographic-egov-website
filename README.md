@@ -232,9 +232,7 @@ For issues and questions:
 ---
 
 **⚡ Built with Django, Bootstrap 5, and modern cryptography practices**
-#
-#
-#
-#
-#
-## PS E:\Intrnl 3 proj\Crypto-compyle-test-crypto-egov> python manage.py runserver
+
+#to Run the project
+< your path >/Crypto-compyle-test-crypto-egov> python manage.py runserver
+    
